@@ -10,6 +10,3 @@ if __name__ == '__main__':
     for i in student_marks[query_name]:
         a+=i
     print(format(a/3,".2f"))
-
-        
-                 
